@@ -1,0 +1,40 @@
+/* Base for content */
+body {
+    font-family: Arial, sans-serif;
+    margin: 100px;
+}
+
+/* Setting of input */
+input[type="text"] {
+    padding: 10px;
+    width: 400px;
+}
+
+/* Setting of button */
+button {
+    padding: 10px 15px;
+    background-color: #0c92a1;
+    color: white;
+}
+
+/* Setting of delete button */
+.deleteButton {
+    padding: 3px 5px ;
+    font-size: 8px;
+    background-color: #cc440e;
+    color: rgb(255, 255, 255);
+    float: right; 
+}
+
+/* Unordered list */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* List (to-do list) */
+li {
+    background-color: rgb(254, 250, 240);
+    margin: 5px;
+    text-align: left;
+}
