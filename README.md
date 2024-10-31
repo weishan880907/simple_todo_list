@@ -10,7 +10,10 @@ A simple To-Do List application that allows users to add, complete, and delete t
     ```sh
     git clone https://github.com/weishan880907/simple_todo_list.git 
     ```
-
+2. Get into the folder:
+    ```sh
+    cd simple_todo_list 
+    ```
 ## Running Application
 1. Start the server
     ```sh
